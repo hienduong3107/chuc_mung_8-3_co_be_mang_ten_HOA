@@ -61,11 +61,8 @@
 .rainbow {
     position: relative;
     z-index: 0;
-    width: 400px;
     height: 200px;
-  
     overflow: hidden;
- 
     display: flex;
     justify-content: center;
     align-items: center;
