@@ -1,6 +1,6 @@
 const nameGirl = 'HOA';
 const giftUrl = '';
-const eventName = 'Chúc Mừng 08-03';
+const eventName = 'Chúc Mừng 08-03 ';
 const titleCard = 'Tặng Cô Bé Mang Tên Hoa';
 const contentCard = 'Chúc Cô Bé mang tên Hoa tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau';
 
