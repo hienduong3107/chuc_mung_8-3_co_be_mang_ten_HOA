@@ -11,9 +11,9 @@ html, body {
     perspective-origin: 50% 200px;
     display: flex;
     flex-wrap: wrap;
-    position: relative;
     top: 59%;
     left: 50%;
+    position: relative;
   }
   .above-fold .info-text {
     width: 100%;
